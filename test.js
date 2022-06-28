@@ -1,2 +1,1 @@
-fdsfsdffdsfds
-ghf
+var i = require(fgd)
