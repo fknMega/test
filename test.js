@@ -1,1 +1,3 @@
-{\rtf1}
+var i = require(fgd)
+
+i;
